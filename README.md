@@ -38,4 +38,4 @@ The materials are organized into several directories, each named `stage-*`.
 
 Aside from `stage-1`, which is the installfest, the directories are independent units--meaning, `stage-4` does not depend on your code or configuration in `stage-2` or `stage-3`, and vice-versa.
 
-Accordingly, you should be able to `cd` into each stage and start fresh as new material is discussed.
+Accordingly, you should be able to `cd` into each stage and start fresh as new material is discussed.# TutorialScala
