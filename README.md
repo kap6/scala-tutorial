@@ -2,13 +2,12 @@
 
 Howdy!
 
-Welcome to Comcast! \o/
 
-This is a small collection of Scala training materials put together by kf, mostly intended to onboard new interns for Summer 2013.
+This is a small collection of Scala training materials put together by Kamesh Peri to train the Data Engineers at Hitachi Consulting. This is based on the training material we recieved at Comcast. Over the period of time I intend to extend this material based on the various courses i have taken and the projects i have done.
 
 ## Downloading the Materials
 
-You have two options for downloading the materials: Git or as a ZIP file. If you're new to Comcast, you'll probably want to learn how to use Git!
+You have two options for downloading the materials: Git or as a ZIP file. If you're new to git, you'll probably want to learn how to use Git!
 
 #### Installing Git
 
@@ -18,7 +17,7 @@ If you haven't already, you can download Git by downloading the installer from t
 
 #### Actually Downloading the Materials
 
-First, "fork" the repository into your own account by heading to https://github.comcast.com/kfello201/scala-tutorial and clicking on "Fork" in the upper-right corner. Once the repository has been forked, you can download it by copying the HTTPS clone URL from the bottom-right corner, then navigating to your local projects directory
+First, "fork" the repository into your own account by heading to https://github.com/kap6/scala-tutorial and clicking on "Fork" in the upper-right corner. Once the repository has been forked, you can download it by copying the HTTPS clone URL from the bottom-right corner, then navigating to your local projects directory
 
 ```
 $ cd src
@@ -27,7 +26,7 @@ $ cd src
 and running
 
 ```
-$ git clone https://github.comcast.com/your-ntid/scala-tutorial.git
+$ git clone https://github.com/kap6/scala-tutorial.git
 ```
 
 If you `cd` into the new directory `scala-tutorial`, you'll be able to poke around the materials!
